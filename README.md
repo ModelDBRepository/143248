@@ -1,14 +1,10 @@
 # Code to produce main figures in:
 **"Phase precession through acceleration of local theta rhythm:  
-a biophysical model for the interaction between place cells and local  
-inhibitory neurons"**, *JOURNAL OF COMPUTATIONAL NEUROSCIENCE*.  
+a biophysical model for the interaction between place cells and local inhibitory neurons"**, *JOURNAL OF COMPUTATIONAL NEUROSCIENCE*.  
 doi: [http://dx.doi.org/10.1007/s10827-011-0378-0](http://dx.doi.org/10.1007/s10827-011-0378-0)
 
-****************************************  
-*                                      *  
-*  Run 'Model_Precession.m' in MATLAB  *  
-*                                      *  
-****************************************  
+ 
+## Run 'Model_Precession.m' in MATLAB
 
 Core model parameters are set in Setup_Parameters
 
